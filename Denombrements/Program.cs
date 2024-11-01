@@ -50,7 +50,7 @@ namespace Denombrements
                     n = ensemble("nombre total d'éléments à gérer = ");
                     // calcul de r
                     r = calcul(n);
-                    Console.WriteLine(n+"! = " + r);
+                    Console.WriteLine(n + "! = " + r);
                 }
                 else
                 {
